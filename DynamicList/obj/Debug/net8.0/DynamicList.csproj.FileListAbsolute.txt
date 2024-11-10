@@ -1,0 +1,14 @@
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\bin\Debug\net8.0\DynamicList.exe
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\bin\Debug\net8.0\DynamicList.deps.json
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\bin\Debug\net8.0\DynamicList.runtimeconfig.json
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\bin\Debug\net8.0\DynamicList.dll
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\bin\Debug\net8.0\DynamicList.pdb
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.AssemblyInfoInputs.cache
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.AssemblyInfo.cs
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.csproj.CoreCompileInputs.cache
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.dll
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\refint\DynamicList.dll
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.pdb
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\DynamicList.genruntimeconfig.cache
+C:\Users\Belezireva\source\repos\DynamicList\DynamicList\obj\Debug\net8.0\ref\DynamicList.dll

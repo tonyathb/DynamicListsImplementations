@@ -1,0 +1,14 @@
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.exe
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.deps.json
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.runtimeconfig.json
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.dll
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.pdb
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.dll
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\refint\DoubleLinkedList.dll
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.pdb
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.genruntimeconfig.cache
+C:\Users\Belezireva\source\repos\DynamicList\DoubleLinkedList\obj\Debug\net8.0\ref\DoubleLinkedList.dll

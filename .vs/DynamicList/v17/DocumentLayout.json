@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40819288-7567-4468-9716-AC6CAE5FB11F}|DynamicList\\DynamicList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\dynamiclist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40819288-7567-4468-9716-AC6CAE5FB11F}|DynamicList\\DynamicList.csproj|solutionrelative:dynamiclist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40819288-7567-4468-9716-AC6CAE5FB11F}|DynamicList\\DynamicList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\dynamiclist\\dynamiclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40819288-7567-4468-9716-AC6CAE5FB11F}|DynamicList\\DynamicList.csproj|solutionrelative:dynamiclist\\dynamiclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40819288-7567-4468-9716-AC6CAE5FB11F}|DynamicList\\DynamicList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\dynamiclist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40819288-7567-4468-9716-AC6CAE5FB11F}|DynamicList\\DynamicList.csproj|solutionrelative:dynamiclist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\doublelinkedlist\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\doublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\doublelinkedlist\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\users\\belezireva\\source\\repos\\dynamiclist\\doublelinkedlist\\doublelinkedlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65F9FADB-6826-4EDE-AD0C-785CBF6D7E52}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\doublelinkedlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoubleLinkedList.csproj",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\DoubleLinkedList.csproj",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\DoubleLinkedList.csproj",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\DoubleLinkedList.csproj",
+              "RelativeToolTip": "DoubleLinkedList\\DoubleLinkedList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T05:22:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListNode.cs",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\ListNode.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\ListNode.cs",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\ListNode.cs",
+              "RelativeToolTip": "DoubleLinkedList\\ListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:24:33.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoubleLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\DoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\DoubleLinkedList.cs",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\DoubleLinkedList.cs",
+              "RelativeToolTip": "DoubleLinkedList\\DoubleLinkedList.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:23:04.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DoubleLinkedList\\Program.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:22:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DynamicList\\Node.cs",
+              "RelativeDocumentMoniker": "DynamicList\\Node.cs",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DynamicList\\Node.cs",
+              "RelativeToolTip": "DynamicList\\Node.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:29:27.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicList.cs",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DynamicList\\DynamicList.cs",
+              "RelativeDocumentMoniker": "DynamicList\\DynamicList.cs",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DynamicList\\DynamicList.cs",
+              "RelativeToolTip": "DynamicList\\DynamicList.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:27:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DynamicList\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicList\\Program.cs",
+              "ToolTip": "C:\\Users\\Belezireva\\source\\repos\\DynamicList\\DynamicList\\Program.cs",
+              "RelativeToolTip": "DynamicList\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:26:26.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
